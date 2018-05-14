@@ -4,3 +4,4 @@ misc/*
 .ipynb_checkpoints/*
 *.pyc
 leakage-modelling-tutorial/*
+.idea/*
